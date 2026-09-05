@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+secrets.json
+.wrangler/
+node_modules/
